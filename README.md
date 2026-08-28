@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayraj175coder&theme=radical" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=jayraj175coder&theme=radical" width="49%" />
 </p>
 
 <p align="center">
