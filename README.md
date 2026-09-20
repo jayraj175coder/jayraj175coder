@@ -1,30 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm Jayraj Sanas
+# 👋 Hi, I'm Jayraj Sanjay Sanas
 
-### 💻 Full-Stack Developer • 🤖 AI Builder • 🏆 Hackathon Enthusiast
+### A passionate Full-Stack Developer from India 🇮🇳
 
-<p>
-  <a href="https://github.com/jayraj175coder">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/jayraj-sanas">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jayrajsanas175@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jayraj175coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jayraj175coder&style=for-the-badge&color=2563EB"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ I Build • I Learn • I Ship
+<img src="https://komarev.com/ghpvc/?username=jayraj175coder&style=for-the-badge&color=2563EB" />
 
 </div>
 
@@ -32,27 +24,35 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering @ **SAKEC**
+- 🎓 Computer Engineering @ **Shah & Anchor Kutchhi Engineering College**
 - 💻 Full-Stack Developer
-- 🤖 AI / LLM / RAG Enthusiast
-- 🏆 Hackathon Builder
-- 🌐 Open Source Contributor
-- 💼 Former Frontend Intern @ **Archstore Tech Solutions**
+- 🌱 Currently exploring **Backend Development & AI**
+- 👯 Open to collaborating on **MERN Stack & Open Source projects**
+- 💬 Ask me about **React, Node.js, Python, Java & C#**
+- 💼 Former **Frontend Intern @ Archstore Tech Solutions**
+- 📫 **jayrajsanas175@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,reactnative,nodejs,express,fastapi,mongodb,mysql,tailwind,docker,git,github,vscode&perline=9"/>
+### Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5"/>
 
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-06B6D4?style=for-the-badge"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,bootstrap&perline=7"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&perline=5"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5"/>
 
 </div>
 
@@ -63,7 +63,8 @@
 <div align="center">
 
 ### 🏢 Archstore Tech Solutions
-**Frontend Intern · Dec 2024 — Aug 2025**
+
+**Frontend Intern · Dec 2024 – Aug 2025**
 
 `React.js` `React Native` `TanStack Query`
 
@@ -71,17 +72,17 @@
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Stack |
+| Project | Technologies |
 |:---:|:---:|
-| **HireSense AI** | React · Node · AI |
-| **Knowly AI** | FastAPI · MongoDB · Gemini |
-| **StudyNex** | Next.js · Socket.io |
-| **SONARX** | YOLOv8 · FastAPI · React |
-| **Road Accident ML** | Python · Scikit-learn |
+| 🤖 **HireSense AI** | React · Node.js · AI |
+| 📚 **StudyNex** | Next.js · Node.js · Socket.io |
+| 🧠 **Knowly AI** | FastAPI · MongoDB · Gemini |
+| 🌊 **SONARX** | YOLOv8 · FastAPI · React |
+| 🚗 **Road Accident Severity ML** | Python · Scikit-learn |
 
 </div>
 
@@ -91,23 +92,25 @@
 
 <div align="center">
 
+🥇 **Hackathon Winner**  
 🥈 **National Hackathon Runner-Up**  
-🌐 **15+ Open Source PRs**  
-🏆 **Hackathon Winner**  
-🥉 **Bounty Hunters — 4th Place**  
+🌐 **GirlScript Summer of Code Contributor — 15+ PRs**  
+🥉 **Bounty Hunters Hackathon — 4th Place**  
 ✍️ **Internshala Top 5 Content Creator**
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayraj175coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=jayraj175coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj175coder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj175coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -117,17 +120,12 @@
 
 ---
 
+## 🏅 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jayraj175coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-<br><br>
-
-### 🤝 Let's Build Something 🚀
-
-<a href="mailto:jayrajsanas175@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img
+src="https://github-profile-trophy.vercel.app/?username=jayraj175coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
@@ -135,6 +133,14 @@
 
 <div align="center">
 
-`Code • Create • Compete • Repeat`
+### 🤝 Let's Connect
+
+<a href="mailto:jayrajsanas175@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<i>"Code is not just lines — it's decisions, mindset, and ownership."</i>
 
 </div>
