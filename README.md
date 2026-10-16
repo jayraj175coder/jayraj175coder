@@ -1,84 +1,75 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:06B6D4&height=200&section=header&text=Jayraj%20Sanas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
-# Jayraj Sanas
-
-### Computer Engineering Student · Software Engineer · AI Builder
+### Computer Engineering Student · Full-Stack Developer · AI Builder
 
 Building reliable software, intelligent AI systems, and user-focused products.
 
 <p>
   <a href="https://www.linkedin.com/in/jayraj-sanas">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jayrajsanas175@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/jayraj175coder">
-    <img src="https://img.shields.io/badge/GitHub-Projects-334155?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Projects-334155?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=jayraj175coder&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Engineering student at **Shah & Anchor Kutchhi Engineering College, Mumbai**, interested in building production-oriented applications across full-stack development and AI engineering.
+I'm a Computer Engineering student at **Shah & Anchor Kutchhi Engineering College, Mumbai**, focused on building practical software across full-stack development and AI engineering.
 
-- 🎓 B.Tech Computer Engineering · **9.55 CGPA**
 - 💼 Former Frontend Intern at Archstore Tech Solutions
-- 🤖 Building applications with LLMs, RAG, vector search, and AI APIs
-- 🌐 Experienced in React, React Native, Next.js, Node.js, and FastAPI
-- 🤝 Open to software engineering internships and meaningful open-source contributions
+- 🤖 Building AI applications using LLMs, RAG, vector search, and AI APIs
+- 🌐 Experienced with React, React Native, Next.js, Node.js, and FastAPI
+- 🏆 StepsAI National Hackathon — **2nd Place**
+- 🌱 Interested in software engineering, backend systems, and open-source development
+- 🤝 Open to software engineering internships and collaborative projects
 
-I value clean architecture, measurable product impact, and solving real-world problems through engineering.
+I enjoy solving real-world problems through clean architecture, thoughtful product design, and measurable engineering impact.
 
 ---
 
 ## Technical Skills
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-0B1220?style=flat-square&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-0B1220?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=mysql)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5"/>
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-0B1220?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1220?style=flat-square&logo=tailwindcss)
-![Material UI](https://img.shields.io/badge/Material_UI-0B1220?style=flat-square&logo=mui)
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind&perline=6"/>
 
-**Backend, Data & AI**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express-0B1220?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb)
-![RAG](https://img.shields.io/badge/RAG_%26_Vector_Search-0B1220?style=flat-square)
-![Gemini API](https://img.shields.io/badge/Gemini_API-0B1220?style=flat-square&logo=googlegemini)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&perline=5"/>
 
-**Tools**
+**AI & Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-0B1220?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5"/>
+
+</div>
+
+**AI Engineering:** Retrieval-Augmented Generation (RAG), LLMs, Sentence Transformers, MongoDB Atlas Vector Search, Gemini API.
 
 ---
 
 ## Professional Experience
 
 ### Frontend Intern · Archstore Tech Solutions
-*December 2024 – August 2025 · Mumbai*
+*December 2024 – August 2025 · Mumbai, India*
 
 - Built and deployed a sales website from scratch within 24 hours for live dealer verification, serving **200+ dealers**.
 - Independently implemented OTP-based dealer verification, reducing manual verification time by **70%**.
@@ -88,55 +79,92 @@ I value clean architecture, measurable product impact, and solving real-world pr
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### HireSense AI — AI Interview Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designed an AI-driven interview preparation workflow that generates personalized technical and behavioral questions and evaluates responses with structured feedback.
+### 🤖 HireSense AI
+**AI Interview Platform**
 
-- Role-aware question generation and adaptive interview flows.
-- LLM-powered evaluation, strengths analysis, and improvement recommendations.
-- End-to-end interview sessions and performance analysis.
+An AI-powered interview preparation system that generates personalized technical and behavioral questions and evaluates responses with structured feedback.
+
+- Role-aware interview questions
+- LLM-powered answer evaluation
+- Personalized improvement insights
 
 `React.js` `Node.js` `AI / NLP`
 
 [Live Demo](https://hire-sense-ai-sigma.vercel.app/)
 
-### Knowly AI — Multi-Tenant RAG Platform
+</td>
+<td width="50%" valign="top">
 
-Built a document intelligence platform that lets authenticated users upload PDFs and ask natural-language questions grounded in retrieved document content.
+### 🧠 Knowly AI
+**Multi-Tenant RAG Platform**
 
-- PDF ingestion with overlapping text chunking.
-- 384-dimensional embeddings and MongoDB Atlas vector search.
-- JWT authentication and user-level data isolation.
-- Gemini-generated answers with source citations.
+A document intelligence platform for querying uploaded PDFs through context-grounded AI responses.
 
-`Python` `FastAPI` `MongoDB Atlas` `Sentence Transformers` `Gemini API`
+- PDF ingestion and overlapping chunking
+- Vector search with MongoDB Atlas
+- JWT authentication and user isolation
+- Source-grounded answers with citations
 
-### StudyNex — Virtual Group Study Platform
+`Python` `FastAPI` `MongoDB` `Gemini`
 
-Developed a collaborative learning platform for real-time communication and organized study communities.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- WebSocket-based chat with text, image, and file sharing.
-- Dynamic channel creation for dedicated study groups.
-- Media handling through Cloudinary.
+### 📚 StudyNex
+**Virtual Group Study Platform**
 
-`Next.js` `Material UI` `Socket.io` `Node.js`
+A collaborative learning platform built around real-time communication and dedicated study communities.
+
+- WebSocket-based messaging
+- Image and file sharing
+- Dynamic study channels
+- Cloudinary media integration
+
+`Next.js` `Socket.io` `Node.js`
 
 [Frontend Repository](https://github.com/jayraj175coder/StudyNex-Frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ SONARX
+**AI-Powered Subsea Intelligence**
+
+A computer vision platform for identifying marine debris, ghost nets, and underwater hazards from side-scan sonar imagery.
+
+- YOLOv8 object detection
+- Acoustic shadow verification
+- ONNX Runtime inference
+- Geospatial hazard visualization
+
+`Python` `YOLOv8` `FastAPI` `React`
+
+[Source Code](https://github.com/jayraj175coder/side_sonar_detection_ml) · [Live Demo](https://side-sonar.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Achievements & Community
 
-- **2nd Place — StepsAI National Hackathon:** Ranked among the top 2 in 100+ submissions.
-- **GirlScript Summer of Code:** Contributed 15+ merged pull requests, including algorithmic improvements and bug fixes.
-- **4th Place — Bounty Hunters Hackathon, SAKEC:** Built and shipped a full-stack application during a 24-hour sprint.
-- **Internshala Top 5 Content Creator:** Recognized twice for technical content reaching engineering students.
+- 🥈 **StepsAI National Hackathon — 2nd Place:** Ranked among the top 2 in 100+ submissions.
+- 🌐 **GirlScript Summer of Code:** Contributed 15+ merged pull requests, including algorithmic improvements and bug fixes.
+- 🥉 **Bounty Hunters Hackathon, SAKEC — 4th Place:** Built and shipped a full-stack application during a 24-hour sprint.
+- ✍️ **Internshala Top 5 Content Creator:** Earned recognition twice for technical content reaching engineering students.
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
@@ -150,12 +178,18 @@ Developed a collaborative learning platform for real-time communication and orga
 
 <div align="center">
 
-**Interested in building something meaningful? Let's connect.**
+### Let's Build Something Meaningful
+
+Interested in software engineering, AI, or open-source collaboration? Let's connect.
 
 <a href="https://www.linkedin.com/in/jayraj-sanas">LinkedIn</a> ·
 <a href="mailto:jayrajsanas175@gmail.com">Email</a> ·
 <a href="https://github.com/jayraj175coder">GitHub</a>
 
-<sub>Focused on engineering quality, continuous learning, and measurable impact.</sub>
+<br/><br/>
+
+<i>Engineering with purpose. Learning continuously. Building for impact.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B1220&height=100&section=footer" width="100%"/>
 
 </div>
