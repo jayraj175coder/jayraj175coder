@@ -1,146 +1,168 @@
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Jayraj%20Sanas&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Hackathon%20Winner&descAlignY=60&descSize=16" width="100%"/>
 
 # 👋 Hi, I'm Jayraj Sanjay Sanas
 
-### A passionate Full-Stack Developer from India 🇮🇳
+### Building impactful products at the intersection of Software Engineering and AI 🚀
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jayraj-sanas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jayrajsanas175@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/jayraj175coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jayraj175coder&style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=jayraj175coder&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering @ **Shah & Anchor Kutchhi Engineering College**
-- 💻 Full-Stack Developer
-- 🌱 Currently exploring **Backend Development & AI**
-- 👯 Open to collaborating on **MERN Stack & Open Source projects**
-- 💬 Ask me about **React, Node.js, Python, Java & C#**
-- 💼 Former **Frontend Intern @ Archstore Tech Solutions**
-- 📫 **jayrajsanas175@gmail.com**
+- 🎓 Computer Engineering student at **Shah & Anchor Kutchhi Engineering College, Mumbai**
+- 💻 Full-stack developer passionate about building scalable, user-focused applications
+- 🤖 Exploring Generative AI, computer vision, intelligent agents, and backend engineering
+- 🏆 **ET GenAI Hackathon 2026 — Grand Champion**
+- 🥈 **StepsAI National Hackathon — Runner-Up**
+- 🤝 Open to exciting internships, hackathons, and open-source collaborations
+
+> I enjoy turning complex problems into practical products — from AI-powered platforms to real-world computer vision systems.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,kotlin,swift&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5"/>
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind&perline=6"/>
 
-### Frontend
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,bootstrap&perline=7"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&perline=5"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5"/>
+### AI / ML & Developer Tools
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,docker,vscode,postman&perline=7"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ SONARX
+**AI-Powered Subsea Intelligence**
+
+Detects ghost nets, marine debris, and underwater hazards using side-scan sonar imagery.
+
+`YOLOv8` `ONNX Runtime` `FastAPI` `React`
+
+[🔗 Source Code](https://github.com/jayraj175coder/side_sonar_detection_ml) · [🌐 Live Demo](https://side-sonar.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 HireSense AI
+**AI-Powered Interview Coach**
+
+Resume-aware mock interviews, adaptive AI questions, answer evaluation, and personalized performance insights.
+
+`React` `Node.js` `MongoDB` `Gemini / OpenAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 StudyNex
+**Virtual Group Study Platform**
+
+Collaborative learning with real-time chat, video meetings, screen sharing, whiteboards, and assessments.
+
+`Next.js` `React` `Node.js` `Socket.io`
+
+[🔗 Frontend Repository](https://github.com/jayraj175coder/StudyNex-Frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Road Accident Severity ML
+**Machine Learning for Road Safety**
+
+Predicting accident severity using machine learning models and a web-based analytics dashboard.
+
+`Python` `Scikit-learn` `XGBoost` `ML`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-### 🏢 Archstore Tech Solutions
-
-**Frontend Intern · Dec 2024 – Aug 2025**
-
-`React.js` `React Native` `TanStack Query`
+| Achievement | Recognition |
+|:---|:---|
+| 🥇 ET GenAI Hackathon 2026 | **Grand Champion · ₹5,00,000 Prize** |
+| 🥈 StepsAI National Hackathon | **Runner-Up** |
+| 🌐 GirlScript Summer of Code | Contributor · 15+ PRs |
+| 🥉 Bounty Hunters Hackathon | 4th Place |
+| ✍️ Internshala | Top 5 Content Creator |
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Project | Technologies |
-|:---:|:---:|
-| 🤖 **HireSense AI** | React · Node.js · AI |
-| 📚 **StudyNex** | Next.js · Node.js · Socket.io |
-| 🧠 **Knowly AI** | FastAPI · MongoDB · Gemini |
-| 🌊 **SONARX** | YOLOv8 · FastAPI · React |
-| 🚗 **Road Accident Severity ML** | Python · Scikit-learn |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayraj175coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj175coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jayraj175coder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jayraj175coder&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🤝 Let's Connect
 
 <div align="center">
 
-🥇 **Hackathon Winner**  
-🥈 **National Hackathon Runner-Up**  
-🌐 **GirlScript Summer of Code Contributor — 15+ PRs**  
-🥉 **Bounty Hunters Hackathon — 4th Place**  
-✍️ **Internshala Top 5 Content Creator**
+💡 Have an interesting idea, internship opportunity, or project to collaborate on?
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=jayraj175coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj175coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=jayraj175coder&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=jayraj175coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="mailto:jayrajsanas175@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jayraj-sanas">
+  <img src="https://img.shields.io/badge/Let's_Build_Something-Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<i>"Code is not just lines — it's decisions, mindset, and ownership."</i>
+<i>"Build with purpose. Learn relentlessly. Ship things that matter."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
